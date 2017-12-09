@@ -1,3 +1,3 @@
 # Hello-World
 Google-CODEIN
->>getting comfortable with git
+getting to know github by trying some stuff
